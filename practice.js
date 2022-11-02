@@ -1,8 +1,4 @@
-function add(a,b){
-    return a*b
+function createPerson(name,age){
+    return ["age",'name','firstName','lastName']
 }
-function multiplication(a,b){
-    return a*b
-}
-console.log(multiplication(2,3))
-console.log(add(3,2))
+console.log(createPerson("gulshan",28))
