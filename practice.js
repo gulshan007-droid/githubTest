@@ -1,0 +1,1 @@
+alert("this is the practice of js ")
