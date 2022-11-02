@@ -1,1 +1,4 @@
-alert("this is the practice of js ")
+function add(a,b){
+    return a*b
+}
+console.log(add(3,2))
